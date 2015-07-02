@@ -10,6 +10,6 @@ It contains a single job, DemoJob, produced using the default generator.
 
 To reporduce the issue:
 
-```bundle exec rake```
+<tt>bundle exec rake</tt>
 
 
